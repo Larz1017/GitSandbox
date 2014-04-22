@@ -1,4 +1,0 @@
-GitSandbox
-==========
-
-All Projects location
